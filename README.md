@@ -17,7 +17,7 @@ The following tools were used on this project:
 
 ## 🖥️ Preview:
 
-![](https://i.imgur.com/lVWzfIr.png) 
+![](https://i.imgur.com/lVWzfIr.png)
 ![](https://i.imgur.com/1UEmbaW.png)
 
 - You can visit the project clicking here <a href="#">aqui</a>.
